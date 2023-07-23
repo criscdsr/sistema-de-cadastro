@@ -5,6 +5,6 @@
 for perform this projetct on this PC, please type:
 
 ```
-node.js
+mode node.js
 
 ```
